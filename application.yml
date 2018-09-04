@@ -25,4 +25,4 @@ jhipster:
 usbank:
     fx:
         transactions:
-            commission: 10
+            commission: 30
